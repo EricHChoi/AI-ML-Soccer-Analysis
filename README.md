@@ -1,6 +1,6 @@
 # AI-ML-Soccer-Analysis
 
-**Project Overview:** Developed an AI-driven football analysis system utilizing YOLO (You Only Look Once), OpenCV, and Python to automate player, referee, and ball detection and tracking in football match videos.
+**Project Overview:** Developed an AI-driven football analysis system utilizing YOLO (real-time object detection software), OpenCV, and Python to automate player, referee, and ball detection and tracking in football match videos.
 
 **Key Features:**
 - Object Detection and Tracking: Implemented YOLO for real-time detection and tracking of players, referees, and the ball, enhancing video analysis with precise bounding boxes.
